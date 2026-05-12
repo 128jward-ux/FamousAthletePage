@@ -1,5 +1,22 @@
-html {
-    background-color: yellow;
+body {
+    background-color: red;
 }
 
+
+.asset-regular {
+  font-family: "Asset", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: yellow;
+  padding: 200px;
+}
+
+
+.diplomata-regular {
+  font-family: "Diplomata", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: yellow;
+  padding: 50px;
+}
 
